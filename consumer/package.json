@@ -1,0 +1,14 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "Rabbit MQ Consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanni Michael Tomiwa",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.6"
+  }
+}
